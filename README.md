@@ -12,3 +12,5 @@ LeetCode/力扣题目思路解析与代码实现（JavaScript 版）
 * [No.1103 Distribute Candies to People 分糖果 II](./no_1103.md)
 * [No.1108 Defanging an IP Address 地址无效化](./no_1108.md)
 * [No.1122 Relative Sort Array 数组的相对排序](./no_1122.md)
+* [# No.1128 Number of Equivalent Domino Pairs 等价多米诺骨牌对的数量](./no_1128.md)
+* [# No.1137 N-th Tribonacci Number 第 N 个泰波那契数](./no_1137.md)
