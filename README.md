@@ -14,3 +14,5 @@ LeetCode/力扣题目思路解析与代码实现（JavaScript 版）
 * [No.1122 Relative Sort Array 数组的相对排序](./no_1122.md)
 * [No.1128 Number of Equivalent Domino Pairs 等价多米诺骨牌对的数量](./no_1128.md)
 * [No.1137 N-th Tribonacci Number 第 N 个泰波那契数](./no_1137.md)
+* [No.1154 Day of the Year 一年中的第几天](./no_1154.md)
+* [No.1160 Find Words That Can Be Formed by Characters 拼写单词](./no_1160.md)
