@@ -18,3 +18,5 @@ LeetCode/力扣题目思路解析与代码实现（JavaScript 版）
 * [No.1160 Find Words That Can Be Formed by Characters 拼写单词](./no_1160.md)
 * [No.1169 Invalid Transactions 查询无效交易](./no_1169.md)
 * [No.1170 Compare Strings by Frequency of the Smallest Character 比较字符串最小字母出现频次](./no_1170.md)
+* [No.1175 Prime Arrangements 质数排列](./no_1175.md)
+* [No.1176 Diet Plan Performance 健身计划评估](./no_1176.md)
