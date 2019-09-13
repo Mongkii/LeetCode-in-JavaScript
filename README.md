@@ -20,3 +20,5 @@ LeetCode/力扣题目思路解析与代码实现（JavaScript 版）
 * [No.1170 Compare Strings by Frequency of the Smallest Character 比较字符串最小字母出现频次](./no_1170.md)
 * [No.1175 Prime Arrangements 质数排列](./no_1175.md)
 * [No.1176 Diet Plan Performance 健身计划评估](./no_1176.md)
+* [No.1184 Distance Between Bus Stops 公交站间的距离](./no_1184.md)
+* [No.1185 Day of the Week 一周中的第几天](./no_1185.md)
