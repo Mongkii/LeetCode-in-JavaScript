@@ -23,3 +23,5 @@ LeetCode/力扣题目思路解析与代码实现（JavaScript 版）
 * [No.1184 Distance Between Bus Stops 公交站间的距离](./no_1184.md)
 * [No.1185 Day of the Week 一周中的第几天](./no_1185.md)
 * [No.1189 Maximum Number of Balloons “气球” 的最大数量](./no_1189.md)
+* [LCP 1. Guess Numbers 猜数字](./lcp_0001.md)
+* [LCP 2. Deep Dark Fraction 分式化简](./lcp_0002.md)
